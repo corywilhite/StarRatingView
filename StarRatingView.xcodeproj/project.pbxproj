@@ -13,6 +13,7 @@
 		7ABB57EF1D457C02005EE85E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7ABB57EE1D457C02005EE85E /* Assets.xcassets */; };
 		7ABB57F21D457C02005EE85E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7ABB57F01D457C02005EE85E /* LaunchScreen.storyboard */; };
 		7ABB57FD1D457C02005EE85E /* StarRatingViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7ABB57FC1D457C02005EE85E /* StarRatingViewTests.swift */; };
+		7ABB580B1D45DA20005EE85E /* StarRatingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7ABB580A1D45DA20005EE85E /* StarRatingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		7ABB57F81D457C02005EE85E /* StarRatingViewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StarRatingViewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7ABB57FC1D457C02005EE85E /* StarRatingViewTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarRatingViewTests.swift; sourceTree = "<group>"; };
 		7ABB57FE1D457C02005EE85E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7ABB580A1D45DA20005EE85E /* StarRatingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StarRatingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			children = (
 				7ABB57E71D457C02005EE85E /* AppDelegate.swift */,
 				7ABB57E91D457C02005EE85E /* ViewController.swift */,
+				7ABB580A1D45DA20005EE85E /* StarRatingView.swift */,
 				7ABB57EB1D457C02005EE85E /* Main.storyboard */,
 				7ABB57EE1D457C02005EE85E /* Assets.xcassets */,
 				7ABB57F01D457C02005EE85E /* LaunchScreen.storyboard */,
@@ -199,6 +202,7 @@
 			files = (
 				7ABB57EA1D457C02005EE85E /* ViewController.swift in Sources */,
 				7ABB57E81D457C02005EE85E /* AppDelegate.swift in Sources */,
+				7ABB580B1D45DA20005EE85E /* StarRatingView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
